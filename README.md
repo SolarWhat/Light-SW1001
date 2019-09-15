@@ -22,4 +22,4 @@ Gerber Files, BOM and related files: [here](https://github.com/SolarWhat/Light-S
 
 Firmware:
 
-CAD (stp):
+CAD Files (stp):
