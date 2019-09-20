@@ -21,7 +21,7 @@ More information about the project and the team behind it can be found on our [w
 You can get in touch with the team by emailing info@solarwhat.xyz. 
 
 
-[User Manual](http://www.solarwhat.xyz/resources.php "User Manual")
+[User Manual and Tech Specs](http://www.solarwhat.xyz/resources.php "User Manual and Tech Specs")
 
 [Gerber Files, BOM and Firmware Files](https://github.com/SolarWhat/Light-SW1001/tree/master/PCB%20Files "Gerber Files, BOM and Firmware Files")
 
